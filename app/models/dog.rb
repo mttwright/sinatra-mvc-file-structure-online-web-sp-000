@@ -10,7 +10,7 @@ class Dog
     @@all.push(self)
   end
   
-  def sel
+  def self.all
   
   
   
